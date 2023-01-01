@@ -17,7 +17,7 @@ This is an application that utilizes Express, mySQL2, and Sequelize to allow the
 
 ## Usage
 
-After the command, 'npm i' is run to install dependencies, the user will be able to seed their database by running 'npm run seed' after they have created a dotenv file containing their MySQL data. The user can then run 'npm start' to start the server and begin testing the API routes for categories, products, and tags in a testing environment such as Insomnia. All data that is displayed will be in JSON format, and thus, all POST request are required to be in JSON formatting as well.
+After the command, 'npm i' is run to install dependencies, the user will be able to seed their database by running 'npm run seed' after they have created a dotenv file containing their MySQL data. The user can then run 'npm start' to start the server and begin testing the API routes for categories, products, and tags in a testing environment such as Insomnia. All data that is displayed will be in JSON format, and thus, all POST requests are required to be in JSON formatting as well.
 
 ## License
 
